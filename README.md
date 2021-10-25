@@ -19,5 +19,5 @@ Hardware
 ## Instructions:
 1. Download repository as a zip folder
 2. Unzip the folder
-3. Run [getimages.py](https://github.com/bryanseah234/sgWerkzPhotography2021/blob/main/getimages.py) to find all possible photos (You'll need a list of possible NUSNET IDs first. Find them [here](https://github.com/bryanseah234/nusNETID2021).)
+3. Run [getimages.py](https://github.com/bryanseah234/sgWerkzPhotography2021/blob/main/getimages.py) to find all possible photos (You'll need a list of possible NUSNET IDs first. Find them [here](https://github.com/bryanseah234/nusnet-id-code).)
 4. Poke around and look at the other stuff uploaded
