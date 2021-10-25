@@ -1,5 +1,5 @@
 # Singapore Werkz Photography 2021
-code to scrap graduation photos of students from NUS (working in 2021)
+code to scrap graduation photos of students from NUS
 
 <p align="center">
   <img src="https://www.werkzgallery.com/images/logo-werkz.gif" width='400' height='100'/>
