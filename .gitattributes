@@ -1,0 +1,14 @@
+# Global text handling
+* text=auto eol=lf
+
+# Explicitly NOT-in-LFS — prevents accidental capture of common bloat patterns
+*.txt    -filter -diff -merge
+*.png    -filter -diff -merge
+*.jpg    -filter -diff -merge
+*.jpeg   -filter -diff -merge
+*.webp   -filter -diff -merge
+*.gif    -filter -diff -merge
+*.log    -filter -diff -merge
+*.tmp    -filter -diff -merge
+*.zip    -filter -diff -merge
+*.tar.gz -filter -diff -merge
