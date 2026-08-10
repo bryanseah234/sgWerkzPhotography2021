@@ -21,3 +21,7 @@ Hardware
 2. Unzip the folder
 3. Run [getimages.py](https://github.com/hongyime/sgWerkzPhotography2021/blob/main/getimages.py) to find all possible photos (You'll need a list of possible NUSNET IDs first. Find them [here](https://github.com/hongyime/nusnet-id-code).)
 4. Poke around and look at the other stuff uploaded
+
+## License
+
+Apache-2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
