@@ -9,9 +9,25 @@ __pycache__/
 possiblepaths.txt
 sampleids.txt
 
+templates/
+.env
+.env.*
+venv/
+dist/
+build/
+.next/
+coverage/
+.pytest_cache/
+
 # AI / editor dot directories (managed via sourcerepo)
 .*
 !.github/
+!.agents/
+.agents/*
+!.agents/STATE.md
+!.agents/JOURNAL.md
+!.agents/handoffs/
+!.agents/handoffs/**
 !.gitignore
 !.gitattributes
 !.gitmodules
@@ -37,12 +53,4 @@ sampleids.txt
 skills/
 skills-lock.json
 docs/
-templates/
-.env
-.env.*
-venv/
-dist/
-build/
-.next/
-coverage/
-.pytest_cache/
+# End AI / editor dot directories (managed via sourcerepo)
